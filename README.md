@@ -1,13 +1,13 @@
-## Приложение Tour Of Heroes
+## Tour Of Heroes app
 
-Приложение создано в целях изучения фреймворка **Angular**
+The app was created in order to to get acquainted with the **Angular** framework
 
-[Тьюториал здесь](https://angular.io/tutorial)
+[Tutorial here](https://angular.io/tutorial)
 
-### Сервер разработки
+### Development server
 
-Команда для запуска сервера разработки `ng serve`
+The command to start the development server: `ng serve`
 
-### Дополнительная информация
+### Additional Info
 
 [Angular CLI Overview and Command Reference](https://angular.io/cli)
